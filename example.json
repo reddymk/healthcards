@@ -21,7 +21,8 @@
                 {
                   "family": "Anyperson",
                   "given": [
-                    "John", "B."
+                    "John", 
+                    "B."
                   ]
                 }
               ],
